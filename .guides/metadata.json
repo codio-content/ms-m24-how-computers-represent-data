@@ -1,0 +1,64 @@
+{
+ "sections": [
+  {
+   "id": "0d499863-ee6c-747f-4b2a-ea1ae7c0534b",
+   "title": "How Computers Represent Data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/How-Computers-Represent-Data-0d49.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c38a9b5c-22a3-4860-12e4-0fe47313517d",
+   "title": "Binary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-c38a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7993a509-ffe7-763e-8646-abafae9b4ea2",
+   "title": "Quiz",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Quiz-7993.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8135d178-bfec-7088-bac1-461a8dac66b1",
+   "title": "Representing text, images and sound",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Representing-text--images-and-sound-8135.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cf6665ce-f07e-3915-755e-a42f37c1b813",
+   "title": "Quiz (14 points)",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Quiz--14-points--cf66.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

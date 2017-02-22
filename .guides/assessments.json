@@ -1,0 +1,258 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-163215337",
+  "source": {
+   "name": "QuizQuestion1",
+   "showName": true,
+   "instructions": "What is binary?",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "5f4dc5db-65d7-6fba-31e7-def2eab9b8a9",
+     "correct": false,
+     "answer": "The way a computer speaks"
+    },
+    {
+     "_id": "753139b6-3d0f-9c0b-2d92-42c4cd5a412b",
+     "correct": true,
+     "answer": "A sequence of 1's and 0's\n"
+    },
+    {
+     "_id": "1852a602-e738-794a-3fdf-d2b314e7a89d",
+     "correct": false,
+     "answer": "A useless code that is no longer used"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4177079827",
+  "source": {
+   "name": "QuizQuestion2",
+   "showName": true,
+   "instructions": "What kind of 'base' system is binary known as?",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "516d74f9-8f03-cee7-af50-a31602ccfa37",
+     "correct": false,
+     "answer": "Base 10\n"
+    },
+    {
+     "_id": "4b8087e2-28ca-ff16-360d-e2fc19e8b848",
+     "correct": true,
+     "answer": "Base 2\n"
+    },
+    {
+     "_id": "0f465a83-6f2a-6e51-4e2d-fc76fa4c78f7",
+     "correct": false,
+     "answer": "Base 8\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-941942303",
+  "source": {
+   "name": "QuizQuestion3",
+   "showName": true,
+   "instructions": "",
+   "points": "4",
+   "showValues": true,
+   "text": "<<<Binary>>> is a number system that only uses <<<two>>> digits: 1 and 0. All <<<information>>> that is processed by a computer is in the form of a <<<sequence>>> of 1s and 0s.",
+   "tokens": {
+    "blank": [
+     "Binary",
+     "two",
+     "information",
+     "sequence"
+    ],
+    "text": [
+     0,
+     " is a number system that only uses ",
+     0,
+     " digits: 1 and 0. All ",
+     0,
+     " that is processed by a computer is in the form of a ",
+     0,
+     " of 1s and 0s."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1096166698",
+  "source": {
+   "name": "QuizQuestion5",
+   "showName": true,
+   "instructions": "What form must data be in for a computer to be able to process it?\n",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "04c15a57-0ecc-e7d6-dc8d-220e797688c1",
+     "correct": true,
+     "answer": "Binary\n"
+    },
+    {
+     "_id": "dc715565-65a7-811c-f9e3-4a9f5ec584ba",
+     "correct": false,
+     "answer": "Denary\n"
+    },
+    {
+     "_id": "c21224ae-7b92-77b0-6afb-8be977953620",
+     "correct": false,
+     "answer": "Binary or denary\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1332319406",
+  "source": {
+   "name": "QuizQuestion6",
+   "showName": true,
+   "instructions": "What code can be used to convert text into binary?\n",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "791fb59a-2f26-d313-0d1d-925582f6d784",
+     "correct": false,
+     "answer": "Python"
+    },
+    {
+     "_id": "a599da67-6fad-a86e-d043-551efd340a1b",
+     "correct": true,
+     "answer": "ASCII code\n"
+    },
+    {
+     "_id": "8bb5eb39-c60c-51a9-2925-a475713619d5",
+     "correct": false,
+     "answer": "Binary code\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2588655988",
+  "source": {
+   "name": "QuizQuestion7",
+   "showName": true,
+   "instructions": "Convert the binary number to decimal:",
+   "points": "2",
+   "showValues": false,
+   "text": "The base-2 number 011011 is equal to the base-10 number: <<<27>>>.",
+   "tokens": {
+    "blank": [
+     "27"
+    ],
+    "text": [
+     "The base-2 number 011011 is equal to the base-10 number: ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-320516454",
+  "source": {
+   "name": "QuizQuestion8",
+   "showName": true,
+   "instructions": "Convert the binary number to decimal:",
+   "points": "2",
+   "showValues": false,
+   "text": "The base-2 number 10100101 is equal to the base-10 number: <<<165>>>.",
+   "tokens": {
+    "blank": [
+     "165"
+    ],
+    "text": [
+     "The base-2 number 10100101 is equal to the base-10 number: ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4223794048",
+  "source": {
+   "name": "QuizQuestion9",
+   "showName": true,
+   "instructions": "Convert the binary number to decimal:",
+   "points": "2",
+   "showValues": false,
+   "text": "The base-2 number 10010011 is equal to the decimal number: <<<147>>>.",
+   "tokens": {
+    "blank": [
+     "147"
+    ],
+    "text": [
+     "The base-2 number 10010011 is equal to the decimal number: ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2950746774",
+  "source": {
+   "name": "QuizQuestion10",
+   "showName": true,
+   "instructions": "Convert the binary number to hexadecimal:\n",
+   "points": "2",
+   "showValues": false,
+   "text": "The base-2 number 10010011 is equal to the base-16 number <<<93>>>.",
+   "tokens": {
+    "blank": [
+     "93"
+    ],
+    "text": [
+     "The base-2 number 10010011 is equal to the base-16 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2031057461",
+  "source": {
+   "name": "QuizQuestion11",
+   "showName": true,
+   "instructions": "Convert the binary number to hexadecimal:",
+   "points": "2",
+   "showValues": false,
+   "text": "The base-2 number 11010001 is equal to the base-16 number: <<<D1>>>.",
+   "tokens": {
+    "blank": [
+     "D1"
+    ],
+    "text": [
+     "The base-2 number 11010001 is equal to the base-16 number: ",
+     0,
+     "."
+    ]
+   }
+  }
+ }
+]
